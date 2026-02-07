@@ -16,7 +16,7 @@ Hi there 👋
     text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 	<p align="center">
-  <img src=https://media.tenor.com/E4qukggbFgEAAAAM/jjk-hikari.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnp3Fw7FkUuStx4XQR9yu2x93HMV2SW6piww&s text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

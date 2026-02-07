@@ -18,7 +18,7 @@ Hi there 👋
     text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 	<p align="center">
-  <img src= https://giffiles.alphacoders.com/221/221617.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=	https://giffiles.alphacoders.com/221/221617.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 

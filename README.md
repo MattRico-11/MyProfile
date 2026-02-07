@@ -3,7 +3,7 @@ This is my Profile!
 Hi there 👋
 * 👂 My name is Matt!
 * 👩 Pronouns: He/him
-* 🔭 I’m currently working on ...
+* 🔭 I’m currently working on research project about game development
 * 🌱 I’m currently learning C++, Python, HTML, and Arduino
 * 🤝 I’m looking to collaborate on any projects for beginners!
 * 🤔 I’m looking for help with anything coding related and who can teach me about coding 

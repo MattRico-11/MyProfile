@@ -16,9 +16,8 @@ Hi there 👋
 <p align="center">
   <img src=	https://i.pinimg.com/originals/9c/93/44/9c934497b44e48afbb5827fec4492c7a.gif
     text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-	<p align="center">
-  <img src=	https://giffiles.alphacoders.com/221/221617.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<p align="center">
+  <img src=https://giffiles.alphacoders.com/221/221617.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 

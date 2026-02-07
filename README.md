@@ -20,6 +20,12 @@ Hi there 👋
   <img src= https://38.media.tumblr.com/b189e908fc9387ecf0101d90fd865c7a/tumblr_mm1k0tH5gN1sp1ug4o1_500.gif text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3174fmq2bde4slp3f5k42b7aj4ka&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174fmq2bde4slp3f5k42b7aj4ka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

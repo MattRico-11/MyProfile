@@ -11,3 +11,7 @@ Hi there 👋
 * 📫 How to reach me: ricoender8@gmail.com, 63+9911271986
 * ❤️ I love anime, sports, video games, gym,  and fashion
 * ⚡ Fun fact: I can understand and speak japanese
+
+ <p align="center">
+  <img src= https://www.pinterest.com/pin/686517536985422013/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p> https://www.pinterest.com/pin/686517536985422013/

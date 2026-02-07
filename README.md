@@ -12,5 +12,6 @@ Hi there 👋
 * ⚡ Fun fact: I can understand and speak japanese
 
 <p align="center">
-  <img src=https://i.pinimg.com/originals/c4/3f/4f/c43f4fbb82257f1143b6e6be1d8c2699.jpgtext=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src=https://i.pinimg.com/originals/c4/3f/4f/c43f4fbb82257f1143b6e6be1d8c2699.jpg 
+    text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>

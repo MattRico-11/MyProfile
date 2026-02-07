@@ -1,5 +1,4 @@
 # MyProfile
-This is my Profile!
 Hi there 👋
 * 👂 My name is Matt!
 * 👩 Pronouns: He/him

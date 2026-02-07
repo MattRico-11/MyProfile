@@ -12,5 +12,5 @@ Hi there 👋
 * ⚡ Fun fact: I can understand and speak japanese
 
  <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)"/>
 </p>

@@ -21,7 +21,7 @@ Hi there 👋
 </p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3174fmq2bde4slp3f5k42b7aj4ka&redirect=true">
+  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174fmq2bde4slp3f5k42b7aj4ka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
   </a>
 </p>
